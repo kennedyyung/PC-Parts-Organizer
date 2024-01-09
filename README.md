@@ -10,6 +10,6 @@ Our project is about modeling PC components to allow users to understand how dif
 We had to remove the table Mouse_Brand because the Oracle account we were provided with only allowed us to have a maximum of 30 tables. If we included Mouse_Brand, we would have 31 tables which would exceed the space quota we are given to work with in Oracle. We chose to remove this table as it seemed to be a little trivial and we assumed it would not affect the final project much.
 
 
-### How to run application
+### Use of the application
 
-To test our application you can use the link https://www.students.cs.ubc.ca/~kyung19/wrapper.php
+You can find images of our application in use in the Milestone 4 file
